@@ -2,6 +2,6 @@ package com.wei.git;
 
 public class TestGit {
 	public static void main(String[] args) {
-		System.out.println("test Git");
+		System.out.println("test Git Left");
 	}
 }
